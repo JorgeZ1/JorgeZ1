@@ -41,16 +41,20 @@ Contacto: jorgemiliano32@gmail.com
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[PENDIENTE: Playstore Tools]**
-_(pásame descripción, stack y link)_
+**[ToolsPlayStore](https://github.com/JorgeZ1/ToolsPlayStore)**
+
+Colección de apps utilitarias para Android orientadas a Google Play Store. Filosofía de lanzamiento en dos fases: v1 sin anuncios para pasar la revisión y validar que la app resuelve el problema sin fricción; v2 con publicidad moderada y no intrusiva. Apps de propósito único, con permisos mínimos indispensables.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[PENDIENTE: Cicadge]**
-_(pásame descripción, stack y link)_
+**[cicagde](https://github.com/JorgeZ1/cicagde)**
+
+Sitio web del III Congreso Internacional de las Ciencias Administrativas (CICA 2026), organizado por el ITS Escárcega.
+
+Stack: Next.js 16 (App Router) + React 19 · Tailwind CSS v4 · i18n con next-intl (Español/Inglés) · TypeScript estricto · Despliegue en Vercel
 
 </td>
 </tr>
