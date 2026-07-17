@@ -43,6 +43,26 @@ Contacto: jorgemiliano32@gmail.com
 <tr>
 <td width="50%" valign="top">
 
+**[canaco1](https://github.com/JorgeZ1/canaco1)**
+
+Portal web de afiliación para la Cámara Nacional de Comercio, Servicios y Turismo de Campeche (CANACO Servytur Campeche). v3.1 con 2FA TOTP, dashboard ejecutivo y CMS optimizado.
+
+Stack: Next.js 16 (App Router) · React 19 · TypeScript · Tailwind · lucide-react · react-qr-code
+
+</td>
+<td width="50%" valign="top">
+
+**[Margazo](https://github.com/JorgeZ1/Margazo)**
+
+Sitio web estático del restaurante Marganzo, ícono de la cocina tradicional campechana en el Centro Histórico de San Francisco de Campeche.
+
+Stack: Astro 4+ con TypeScript · Tailwind CSS (paleta colonial personalizada) · astro:assets + sharp para optimización de imágenes · Despliegue en Cloudflare Pages
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **[ToolsPlayStore](https://github.com/JorgeZ1/ToolsPlayStore)**
 
 Colección de apps utilitarias para Android orientadas a Google Play Store. Filosofía de lanzamiento en dos fases: v1 sin anuncios para pasar la revisión y validar que la app resuelve el problema sin fricción; v2 con publicidad moderada y no intrusiva. Apps de propósito único, con permisos mínimos indispensables.
