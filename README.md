@@ -32,7 +32,7 @@ Contacto: jorgemiliano32@gmail.com
 ### Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,fastapi,astro,tailwind,git,nginx,sqlite,playwright" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,react,fastapi,,tailwind,git,nginx,sqlite" />
 </div>
 
 <br>
